@@ -66,7 +66,7 @@ def main():
                                          'opposite_percent', 'f_strike_percent', 'groundballs_percent', 'flyballs_percent',
                                          'linedrives_percent', 'popups_percent'],
                                        dtype='float',
-                                       index=['input'])
+                                       index=['input'], index_col=0)
 
         predictions = model.predict(input_variables)
         print(predictions)
