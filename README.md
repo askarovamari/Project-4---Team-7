@@ -11,3 +11,12 @@ Process
 How to use Flask App
 
 Team Roles
+
+
+
+# Resources
+
+- [MLB Glossary](https://www.mlb.com/glossary)
+- [Baseball Savant Glossary](https://baseballsavant.mlb.com/statcast_search)
+
+Special thanks to the contributors of the [UCB-VIRT-DATA-PT-11-2023-U-LOLC](https://github.com/UCB-VIRT-DATA-PT-11-2023-U-LOLC) GitHub repository for providing valuable code and resources used in this project.
