@@ -23,9 +23,14 @@ Team Roles
 
 -[Thomas Depew]
 
+## Acknowledgments
+
+- Berkeley Data Analytics for providing code snippets and resources used in this project. UC Berkeley Extension
+- contributors of the [UCB-VIRT-DATA-PT-11-2023-U-LOLC](https://github.com/UCB-VIRT-DATA-PT-11-2023-U-LOLC) GitHub repository for providing valuable code and resources used in this project.
+- ChatGPT for providing assistance and guidance during the development of these projects.
+  
 ## Resources
 
 - [MLB Glossary](https://www.mlb.com/glossary)
 - [Baseball Savant Glossary](https://baseballsavant.mlb.com/statcast_search)
 
-Special thanks to the contributors of the [UCB-VIRT-DATA-PT-11-2023-U-LOLC](https://github.com/UCB-VIRT-DATA-PT-11-2023-U-LOLC) GitHub repository for providing valuable code and resources used in this project.
