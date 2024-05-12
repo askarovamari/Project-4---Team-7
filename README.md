@@ -13,8 +13,13 @@ How to use Flask App
 Team Roles
 
 
+## Contributors
+-[Mari Awaisi]
+-[Ricky Bialick]
+-[Nathan Transon]
+-[Thomas Depew]
 
-# Resources
+## Resources
 
 - [MLB Glossary](https://www.mlb.com/glossary)
 - [Baseball Savant Glossary](https://baseballsavant.mlb.com/statcast_search)
