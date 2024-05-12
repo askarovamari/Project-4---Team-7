@@ -26,7 +26,7 @@ Team Roles
 ## Acknowledgments
 
 - Berkeley Data Analytics for providing code snippets and resources used in this project. UC Berkeley Extension
-- contributors of the [UCB-VIRT-DATA-PT-11-2023-U-LOLC](https://github.com/UCB-VIRT-DATA-PT-11-2023-U-LOLC) GitHub repository for providing valuable code and resources used in this project.
+- Contributors of the [UCB-VIRT-DATA-PT-11-2023-U-LOLC](https://github.com/UCB-VIRT-DATA-PT-11-2023-U-LOLC) GitHub repository for providing valuable code and resources used in this project.
 - ChatGPT for providing assistance and guidance during the development of these projects.
   
 ## Resources
