@@ -14,9 +14,13 @@ Team Roles
 
 
 ## Contributors
+
 -[Mari Awaisi]
+
 -[Ricky Bialick]
+
 -[Nathan Transon]
+
 -[Thomas Depew]
 
 ## Resources
