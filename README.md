@@ -10,7 +10,6 @@ Process
 
 How to use Flask App
 
-Team Roles
 
 ## Overview
 ## Dependencies
