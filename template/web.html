@@ -49,19 +49,13 @@
 
 
 
-    <form action="{{ url_for('main') }}" method="POST">
+    <form action="http://127.0.0.1:5000" method="POST">
         <div class="form-group">
 
 
             <legend>Input Variables</legend>
-            <br>k_percent:<br>
-
-            <input name="k_percent" type="number" value="23.9" class="form-control" required>
-            <br>
-            <br>slg_percent:<br>
-
-            <input name="slg_percent" type="number" value="0.65" class="form-control" required>
-            <br>
+            
+            
             <br>exit_velocity_avg:<br>
 
             <input name="exit_velocity_avg" type="number" value="94.4" class="form-control" required>
@@ -74,10 +68,7 @@
 
             <input name="sweet_spot_percent" type="number" value="35.6" class="form-control" required>
             <br>
-            <br>barrel:<br>
-
-            <input name="barrel" type="number" value="70" class="form-control" required>
-            <br>
+           
             <br>barrel_batted_rate:<br>
 
             <input name="barrel_batted_rate" type="number" value="19.6" class="form-control" required>
@@ -180,7 +171,7 @@
             <br>
             <br>popups_percent:<br>
 
-            <input name="popups_percent" type="number" class="form-control" required>
+            <input name="popups_percent" type="number" value="22.7" class="form-control" required>
             <br>
 
             <br>
