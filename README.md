@@ -6,9 +6,7 @@ The goal of the project is to analyze a dataset retrieved from [Savant](https://
 
 ## Overview
 
-With ETL we shaped the original dataset and kept . We use Pandas to extract and transform the data, then save it to new CSV files. To demonstrate one possible option for the load step, we used PGAdmin to create tables using SQL; five tables in total. An ERD document is included in multiple formats in the folder named "ERD".
-
-The output of ETL is presented in the Pandas DataFrame and being saved into the SQLite database. 
+With ETL we shaped the original dataset and kept only 30 columns needed for the model, omitting player name and ID, as they are not relevant for prediction. The output of ETL is presented in the Pandas DataFrame and being saved into the SQLite database. 
 
 
 ## Dependencies
