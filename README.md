@@ -20,13 +20,13 @@ Are hosts with many Airbnb listings significantly different from hosts with fewe
 
 ## Dependencies
 
-Pandas
-Seaborn
-Numpy
-Sklearn
-Matplotlib
-Sqlite3
-OS
+Pandas /
+Seaborn /
+Numpy /
+Sklearn /
+Matplotlib /
+Sqlite3 /
+OS /
 Pathlib
 
 ## Contributors
