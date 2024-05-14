@@ -55,4 +55,5 @@ Pathlib
 
 - [MLB Glossary](https://www.mlb.com/glossary)
 - [Baseball Savant Glossary](https://baseballsavant.mlb.com/statcast_search)
+- [Random Forest Model INFO](https://medium.com/analytics-vidhya/lets-model-using-random-forest-to-predict-ucl-reconstruction-6185ebdc853e)
 
