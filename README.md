@@ -4,6 +4,8 @@
 
 The goal of the project is to analyze a dataset retrieved from [Savant](https://baseballsavant.mlb.com/statcast_search) and build a predictive model for one of the major stats of baseball - Batting Average. The original dataset baseballData.csv consists of 1416 lines and 65 columns with Baseball Stats from 2015 through 2024.
 
+At the end, we conducted exploratory analysis on feature importance and correlation, and created a flask app to predict player batting average.
+
 ## Overview
 
 With ETL we shaped the original dataset and kept only 30 columns needed for the model, omitting player name and ID, as they are not relevant for prediction. The output of ETL is presented in the Pandas DataFrame and being saved into the SQLite database & new Baseball_stats_cleaned.csv. 
@@ -11,6 +13,7 @@ With ETL we shaped the original dataset and kept only 30 columns needed for the 
 
 Graphs
 
+Graphs were made to indicate the ammount of importance in which each feature had in determining batting average. Analysis of importance then was conducted through groups pre-determined by our ETL. Analysis was then conducted to see if correlation increased as importance increased. 
 ...
 
 Random Forest
