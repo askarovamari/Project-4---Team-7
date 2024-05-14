@@ -31,13 +31,12 @@ Pathlib
 
 ## Contributors
 
--[Mari Awaisi]
+-[Ricky Bialick] / [Thomas Depew] - ETL / plotting trend graphs
 
--[Ricky Bialick]
+-[Nathan Transon] - Predictive model "Random Forest"
 
--[Nathan Transon]
+-[Mari Awaisi] - Flask App / SQLite DB
 
--[Thomas Depew]
 
 ## Acknowledgments
 
