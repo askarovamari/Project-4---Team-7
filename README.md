@@ -14,12 +14,12 @@ With ETL we shaped the original dataset and kept only 30 columns needed for the 
 Graphs
 
 Graphs were made to indicate the ammount of importance in which each feature had in determining batting average. Analysis of importance then was conducted through groups pre-determined by our ETL. Analysis was then conducted to see if correlation increased as importance increased. 
-...
+
 
 Random Forest
 
 The term "random" in Random Forest refers to the random selection of features and data points used to train each tree in the forest. In a decision tree, each node represents a feature or attribute. The branches represent the possible values that the feature can take, and the leaves represent the outcome or prediction. During training, the decision tree (and Random Forest) is learning the relationship between the features and the target variable by recursively splitting the data based on the feature that provides the most information gain. The Random Forest model averages the predictions of multiple decision trees to improve the overall prediction accuracy.
-...
+
 
 Flask App
 
