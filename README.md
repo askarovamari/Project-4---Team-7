@@ -1,5 +1,9 @@
 # Project-4---Team-7
 
+## About the project
+
+The goal of the project is to analyze a dataset retrieved from [Ba](https://baseballsavant.mlb.com/statcast_search). The dataset consists of 
+
 ## Overview
 
 The project uses ETL workflows to ingest data into the database. We use Pandas to extract and transform the data, then save it to new CSV files. To demonstrate one possible option for the load step, we used PGAdmin to create tables using SQL; five tables in total. An ERD document is included in multiple formats in the folder named "ERD".
