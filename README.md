@@ -9,6 +9,18 @@ The goal of the project is to analyze a dataset retrieved from [Savant](https://
 With ETL we shaped the original dataset and kept only 30 columns needed for the model, omitting player name and ID, as they are not relevant for prediction. The output of ETL is presented in the Pandas DataFrame and being saved into the SQLite database & new Baseball_stats_cleaned.csv. 
 
 
+Graphs
+
+...
+
+Random Forest
+
+...
+
+Flask App
+
+In the back end of the app, we start with saving our model into a joblib file and then we are retrieving it with the Flask through the same job lib library. We are using HTML to visually display data and rendering this html template in the Flask App. 
+
 ## Dependencies
 
 Pandas /
