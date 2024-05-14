@@ -2,7 +2,7 @@
 
 ## About the project
 
-The goal of the project is to analyze a dataset retrieved from [Ba](https://baseballsavant.mlb.com/statcast_search). The dataset consists of 
+The goal of the project is to analyze a dataset retrieved from [Ba](https://baseballsavant.mlb.com/statcast_search) and build a predictive model for one of the major stats of baseball - Batting Average. The original dataset baseballData.csv consists of 1416 lines and 65 columns with Baseball Stats.
 
 ## Overview
 
